@@ -50,7 +50,7 @@ Edge computing involves processing data closer to where it's generated (e.g., on
 
 There are several major cloud providers that businesses and individuals can use, each offering a wide range of services, features, and functions to meet different needs. Below are the most prominent cloud providers, along with a summary of their key offerings:
 
-**Amazon Web Services (AWS)**
+1. **Amazon Web Services (AWS)**
 
 AWS is one of the largest and most widely used cloud platforms in the world. It provides a comprehensive suite of cloud services for computing, storage, databases, machine learning, analytics, networking, and more.
 
